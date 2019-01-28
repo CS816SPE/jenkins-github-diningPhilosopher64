@@ -6,6 +6,6 @@ int main()
 	/* code */
 
 	printf("Hello world");
-	printf("\n gg \n")
+	printf("\n gg \n");
 	return 0;
 }
