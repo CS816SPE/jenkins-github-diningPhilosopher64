@@ -1,3 +1,6 @@
+[Sourabh Kondapaka](https://github.com/diningPhilosopher64) - MT2018119
+
+
 # jenkins-github Assignment
 - Create a simple Job, and the build action of the job can be something simple like ```echo "Hello World!"```
 - Connect the job to your GitHub Assignment repository using Git SCM Poll for every 5 seconds
